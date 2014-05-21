@@ -26,5 +26,10 @@
   "devDependencies": {
     "mocha": "",
     "should": ""
+  },
+  "dependencies": {
+    "oauth": "~0.9.12",
+    "events": "~1.0.1",
+    "querystring": "~0.2.0"
   }
 }
