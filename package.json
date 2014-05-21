@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/mikeymike/twitter-api/issues"
   },
-  "homepage": "https://github.com/mikeymike/twitter-api"
+  "homepage": "https://github.com/mikeymike/twitter-api",
+  "devDependencies": {
+    "mocha": "",
+    "should": ""
+  }
 }
