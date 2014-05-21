@@ -1,0 +1,26 @@
+{
+  "name": "twitter-api",
+  "version": "0.0.1",
+  "description": "Implementation of the Twitter API (v1.1)",
+  "main": "lib/twitter.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikeymike/twitter-api.git"
+  },
+  "keywords": [
+    "twitter",
+    "api"
+  ],
+  "author": "Michael Woodward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeymike/twitter-api/issues"
+  },
+  "homepage": "https://github.com/mikeymike/twitter-api"
+}
